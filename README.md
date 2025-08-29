@@ -1,2 +1,2 @@
-# RayMarching_Quest1
+# RayMarching_ModernGL
 First Introduction to Ray Marching
