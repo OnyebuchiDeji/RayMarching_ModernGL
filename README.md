@@ -22,11 +22,13 @@ Python
 
 ##   Briefing
 These projects demonstrates Procedural generation of 3d artifacts using Ray Marching technique.
-This is done with Moderngl.
+
+This is done with Moderngl in the Python programming language.
+
 It does not use polygonaml meshes; the lighting, shadows, and objects and the interactions between them are generated in real time using some ray casting techinques.
 Furthermore, the Sphere Tracing (Ray Marching) algorithm is used.
 
-The unqiqueness of RayMarching is that one creates 3D objects and scenes with out the use of polygons or loading textures.
+The uniqueness of RayMarching is that one creates 3D objects and scenes with out the use of polygons or loading textures.
 
 The video that demonstrates the project goes through the process of creating the procedural objects, and the result is the animated scene presented.
 
