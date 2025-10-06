@@ -39,10 +39,21 @@ The projects are two in total; the second is a continuation of the former.
 ##   References
 
 Project 1:
-Coder Space (2022), "Procedural 3D Engine. Ray MArching OpenGL Tutorilal", Youtube.
+Coder Space (2022), "Procedural 3D Engine. Ray Marching OpenGL Tutorial", Youtube.
 
 Project 2:
 Coder Space (2022), "Advanced Procedural 3D Graphics. Ray Marching Tutorial", Youtube.
 
 ##  Project1 Done: Thurs-25-July-2024
 ##  Project2 Done: Fri-26-July-2024
+
+
+##	Screenshots
+
+![1](./scrn_shots/pic0.png)
+![2](./scrn_shots/pic5.png)
+![3](./scrn_shots/pic7.png)
+![4](./scrn_shots/pic11.png)
+![5](./scrn_shots/pic13.png)
+![6](./scrn_shots/pic16.png)
+![7](./scrn_shots/pic21.png)
